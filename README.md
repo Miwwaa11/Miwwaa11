@@ -27,7 +27,7 @@
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miwwaa11&theme=react-dark&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c084fc&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miwwaa11&bg_color=0d1117&color=39d353&line=39d353&point=26a641&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 </div>
