@@ -16,7 +16,7 @@
 
 ---
 
-### Contribution Snake
+### Miwwaa11 contribution 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake.svg">
@@ -25,9 +25,9 @@
 
 ---
 
-### GitHub Stats
+### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miwwaa11&theme=react-dark&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c084fc&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 </div>
