@@ -28,8 +28,8 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miwwaa11&show_icons=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miwwaa11&show_icons=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636&hide_border=false" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636&hide_border=false" alt="Most Used Languages" height="165" />
 </p>
 
 <p align="center">
