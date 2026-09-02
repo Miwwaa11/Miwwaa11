@@ -28,12 +28,12 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miwwaa11&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miwwaa11&show_icons=true&theme=github_dark&title_color=3fb950&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&theme=github_dark&title_color=3fb950&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="Most Used Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&theme=github-green-dark" alt="GitHub Streak" />
 </p>
 
 </div>
